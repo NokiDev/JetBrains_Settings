@@ -5,20 +5,68 @@
       <option name="SMART_TABS" value="true" />
     </value>
   </option>
+  <CssCodeStyleSettings>
+    <option name="HEX_COLOR_UPPER_CASE" value="true" />
+    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
+    <option name="VALUE_ALIGNMENT" value="2" />
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
+  </CssCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_ALIGN_TEXT" value="true" />
   </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
+    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
+    <option name="IMPORTS_WRAP" value="1" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </JSCodeStyleSettings>
   <JetCodeStyleSettings>
     <option name="ALIGN_IN_COLUMNS_CASE_BRANCH" value="true" />
     <option name="LBRACE_ON_NEXT_LINE" value="true" />
     <option name="CONTINUATION_INDENT_IN_IF_CONDITIONS" value="false" />
   </JetCodeStyleSettings>
+  <LessCodeStyleSettings>
+    <option name="HEX_COLOR_UPPER_CASE" value="true" />
+    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
+    <option name="VALUE_ALIGNMENT" value="2" />
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
+  </LessCodeStyleSettings>
   <Properties>
     <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
   </Properties>
+  <ScssCodeStyleSettings>
+    <option name="HEX_COLOR_UPPER_CASE" value="true" />
+    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
+    <option name="VALUE_ALIGNMENT" value="2" />
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
+  </ScssCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="1">
+    <option name="JSDOC_INCLUDE_TYPES" value="true" />
+    <option name="USE_PUBLIC_MODIFIER" value="true" />
+    <option name="PREFER_AS_TYPE_CAST" value="true" />
+    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
+  </TypeScriptCodeStyleSettings>
   <yaml>
     <option name="SEQUENCE_ON_NEW_LINE" value="true" />
   </yaml>
+  <codeStyleSettings language="CSS">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+    <arrangement>
+      <rules>
+        <section>
+          <rule>
+            <match>
+              <NAME>.*</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+      </rules>
+    </arrangement>
+  </codeStyleSettings>
   <codeStyleSettings language="EditorConfig">
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <option name="SPACE_AFTER_COLON" value="true" />
@@ -54,8 +102,57 @@
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="ELSE_ON_NEW_LINE" value="true" />
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+    <option name="TERNARY_OPERATION_WRAP" value="2" />
+    <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="1" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="LESS">
+    <indentOptions>
+      <option name="TAB_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="Properties">
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="SASS">
+    <indentOptions>
+      <option name="TAB_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="TAB_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Stylus">
+    <indentOptions>
+      <option name="TAB_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="VTL">
     <indentOptions>
