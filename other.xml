@@ -1,0 +1,22 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="evlsprt3.183" value="16" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="ideavim.statistics.timestamp" value="1548597611093" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="kotlin.lastUpdateCheck" value="1548599054069" />
+    <property name="lastTip" value="1" />
+    <property name="project.wizard.group" value="EMPTY_MODULE" />
+    <property name="project.wizard.template" value="Empty Project" />
+    <property name="selected.color.option.type" value="UNMATCHED_BRACE_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.EditorConfig" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.Groovy" value="Spaces" />
+    <property name="settings.code.style.selected.tab.HTML" value="Arrangement" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JSON" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.XML" value="Arrangement" />
+    <property name="settings.code.style.selected.tab.kotlin" value="Load/Save" />
+    <property name="settings.code.style.selected.tab.yaml" value="Wrapping and Braces" />
+  </component>
+</application>

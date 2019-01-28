@@ -1,0 +1,102 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CopyrightManager">
+        <LanguageOptions name="HTML">
+          <option name="fileTypeOverride" value="3" />
+          <option name="separateBefore" value="true" />
+          <option name="separateAfter" value="true" />
+          <option name="lenBefore" value="100" />
+          <option name="lenAfter" value="100" />
+          <option name="box" value="true" />
+          <option name="filler" value="-" />
+        </LanguageOptions>
+        <LanguageOptions name="Properties">
+          <option name="separateBefore" value="true" />
+          <option name="separateAfter" value="true" />
+          <option name="lenBefore" value="100" />
+          <option name="lenAfter" value="100" />
+          <option name="box" value="true" />
+          <option name="filler" value="@" />
+        </LanguageOptions>
+        <LanguageOptions name="XML">
+          <option name="fileTypeOverride" value="3" />
+          <option name="separateBefore" value="true" />
+          <option name="separateAfter" value="true" />
+          <option name="lenBefore" value="100" />
+          <option name="lenAfter" value="100" />
+          <option name="box" value="true" />
+          <option name="filler" value="-" />
+        </LanguageOptions>
+        <LanguageOptions name="__TEMPLATE__">
+          <option name="separateBefore" value="true" />
+          <option name="separateAfter" value="true" />
+          <option name="lenBefore" value="100" />
+          <option name="lenAfter" value="100" />
+          <option name="box" value="true" />
+          <option name="filler" value="@" />
+        </LanguageOptions>
+      </component>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="Git.Settings">
+        <option name="PUSH_AUTO_UPDATE" value="true" />
+        <option name="ROOT_SYNC" value="DONT_SYNC" />
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="noki" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Ant</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="terminal" />
+      </component>
+      <component name="UpdateCopyrightCheckinHandler">
+        <option name="UPDATE_COPYRIGHT" value="true" />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+        <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+        <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="Copyright.UI">
+            <settings>
+              <last-edited>me</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
