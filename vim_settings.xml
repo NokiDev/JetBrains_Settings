@@ -10,6 +10,14 @@
         <mark key="[" line="98" column="14" />
         <mark key="]" line="98" column="27" />
       </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/assets/index.html" timestamp="1548781573383">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/main.js" timestamp="1548781431528">
+        <mark key="[" line="5" column="9" />
+      </file>
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Header.vue" timestamp="1548780260215">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -22,12 +30,12 @@
         <mark key="." line="17" column="15" />
         <mark key="^" line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/App.vue" timestamp="1548780306987">
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/App.vue" timestamp="1548781366325">
         <mark key="'" line="1" column="4" />
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="6" />
-        <mark key="." line="1" column="6" />
-        <mark key="^" line="1" column="6" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Content.vue" timestamp="1548778887869">
         <mark key="[" line="1" column="0" />
@@ -49,8 +57,8 @@
       <jump line="1" column="4" filename="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/App.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CTx0aXRsZT5UaXRsZTwvdGl0bGU+Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
@@ -62,31 +70,31 @@
         <text encoding="base64">CWZsZXgtZGlyZWN0aW9uOnJvdwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWRpc3BsYXkgZmxleAo=</text>
+        <text encoding="base64">CTx0aXRsZT5UaXRsZTwvdGl0bGU+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlkaXNwbGF5IGZsZXgK</text>
+        <text encoding="base64">CWRpc3BsYXkgZmxleAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC9oZWFkZXI+Cg==</text>
+        <text encoding="base64">CQlkaXNwbGF5IGZsZXgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">PC9oZWFkZXI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CTxzcGFuIGNsYXNzPSJzbG9nYW4iPjxiPlNsb2dhbjwvYj48L3NwYW4+Cg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CTxzcGFuIGNsYXNzPSJ0aXRsZSI+UmV2YWw8L3NwYW4+Cg==</text>
+        <text encoding="base64">CTxzcGFuIGNsYXNzPSJzbG9nYW4iPjxiPlNsb2dhbjwvYj48L3NwYW4+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGRpdj4K</text>
+        <text encoding="base64">CTxzcGFuIGNsYXNzPSJ0aXRsZSI+UmV2YWw8L3NwYW4+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CTxpbWcgY2xhc3M9ImxvZ28iIHNyYz0iYXNzZXRzL2ltZy9sb2dvLnBuZyIvPgo=</text>
+        <text encoding="base64">PGRpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGhlYWRlcj4K</text>
+        <text encoding="base64">CTxpbWcgY2xhc3M9ImxvZ28iIHNyYz0iYXNzZXRzL2ltZy9sb2dvLnBuZyIvPgo=</text>
       </register>
     </registers>
     <search>
