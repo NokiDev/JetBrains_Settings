@@ -30,17 +30,18 @@
         <mark key="." line="17" column="15" />
         <mark key="^" line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/App.vue" timestamp="1548783066042">
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/App.vue" timestamp="1548786866409">
         <mark key="'" line="1" column="4" />
-        <mark key="]" line="35" column="14" />
-        <mark key="." line="35" column="14" />
-        <mark key="^" line="35" column="14" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Content.vue" timestamp="1548783143522">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="8" />
-        <mark key="^" line="6" column="8" />
-        <mark key="." line="6" column="8" />
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Content.vue" timestamp="1548786289558">
+        <mark key="i" line="4" column="33" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="46" />
+        <mark key="." line="28" column="46" />
+        <mark key="^" line="28" column="46" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1548598387853">
         <mark key="[" line="0" column="0" />
@@ -51,49 +52,54 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/public/index.html" timestamp="1548786782773">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="23" column="57" />
+        <mark key="." line="20" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1" column="4" filename="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/App.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CTxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9InNlbWFudGljL2Rpc3Qvc2VtYW50aWMubWluLmNzcyI+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">ICB9fQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CWZsZXgtZGlyZWN0aW9uOnJvdwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">PHNjcmlwdAoJc3JjPSJodHRwczovL2NvZGUuanF1ZXJ5LmNvbS9qcXVlcnktMy4xLjEubWluLmpzIgoJaW50ZWdyaXR5PSJzaGEyNTYtaFZWbllhaUFEUlRPMlB6VUdtdUxKcjhCTFVTakdJWnNEWUdtSUpMdjJiOD0iCgljcm9zc29yaWdpbj0iYW5vbnltb3VzIj48L3NjcmlwdD4KCTxzY3JpcHQgc3JjPSJzZW1hbnRpYy9kaXN0L3NlbWFudGljLm1pbi5qcyI+PC9zY3JpcHQ+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CTx0aXRsZT5UaXRsZTwvdGl0bGU+Cg==</text>
+        <text encoding="base64">CTxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9InNlbWFudGljL2Rpc3Qvc2VtYW50aWMubWluLmNzcyI+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWRpc3BsYXkgZmxleAo=</text>
+        <text encoding="base64">CTxzY3JpcHQgc3JjPSJzZW1hbnRpYy9kaXN0L3NlbWFudGljLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlkaXNwbGF5IGZsZXgK</text>
+        <text encoding="base64">CWNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PC9oZWFkZXI+Cg==</text>
+        <text encoding="base64">CWludGVncml0eT0ic2hhMjU2LWhWVm5ZYWlBRFJUTzJQelVHbXVMSnI4QkxVU2pHSVpzRFlHbUlKTHYyYjg9Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">CXNyYz0iaHR0cHM6Ly9jb2RlLmpxdWVyeS5jb20vanF1ZXJ5LTMuMS4xLm1pbi5qcyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CTxzcGFuIGNsYXNzPSJzbG9nYW4iPjxiPlNsb2dhbjwvYj48L3NwYW4+Cg==</text>
+        <text encoding="base64">CTxzY3JpcHQK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CTxzcGFuIGNsYXNzPSJ0aXRsZSI+UmV2YWw8L3NwYW4+Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PGRpdj4K</text>
+      <register name="8" type="4">
+        <text encoding="base64">PHNjcmlwdAoJc3JjPSJodHRwczovL2NvZGUuanF1ZXJ5LmNvbS9qcXVlcnktMy4xLjEubWluLmpzIgoJaW50ZWdyaXR5PSJzaGEyNTYtaFZWbllhaUFEUlRPMlB6VUdtdUxKcjhCTFVTakdJWnNEWUdtSUpMdjJiOD0iCgljcm9zc29yaWdpbj0iYW5vbnltb3VzIj48L3NjcmlwdD4KCTxzY3JpcHQgc3JjPSJzZW1hbnRpYy9kaXN0L3NlbWFudGljLm1pbi5qcyI+PC9zY3JpcHQ+</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CTxpbWcgY2xhc3M9ImxvZ28iIHNyYz0iYXNzZXRzL2ltZy9sb2dvLnBuZyIvPgo=</text>
+        <text encoding="base64">CSkK</text>
       </register>
     </registers>
     <search>
@@ -123,6 +129,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
