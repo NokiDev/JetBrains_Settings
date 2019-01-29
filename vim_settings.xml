@@ -10,6 +10,9 @@
         <mark key="[" line="98" column="14" />
         <mark key="]" line="98" column="27" />
       </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/NavBar.vue" timestamp="1548788895105">
+        <mark key="[" line="9" column="16" />
+      </file>
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/assets/index.html" timestamp="1548781573383">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="5" column="0" />
@@ -18,30 +21,28 @@
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/main.js" timestamp="1548781431528">
         <mark key="[" line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Header.vue" timestamp="1548782997516">
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="27" />
-        <mark key="^" line="20" column="27" />
-        <mark key="." line="20" column="27" />
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Header.vue" timestamp="1548788387923">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="28" column="14" />
+        <mark key="^" line="28" column="14" />
+        <mark key="." line="28" column="14" />
       </file>
-      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Footer.vue" timestamp="1548778195370">
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="17" column="15" />
-        <mark key="." line="17" column="15" />
-        <mark key="^" line="17" column="15" />
-      </file>
-      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/App.vue" timestamp="1548786866409">
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/App.vue" timestamp="1548788781353">
         <mark key="'" line="1" column="4" />
-        <mark key="[" line="1" column="0" />
+        <mark key="[" line="2" column="14" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Content.vue" timestamp="1548786289558">
-        <mark key="i" line="4" column="33" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="46" />
-        <mark key="." line="28" column="46" />
-        <mark key="^" line="28" column="46" />
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Footer.vue" timestamp="1548788485430">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Content.vue" timestamp="1548788771864">
+        <mark key="i" line="3" column="33" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1548598387853">
         <mark key="[" line="0" column="0" />
@@ -62,11 +63,11 @@
       <jump line="1" column="4" filename="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/App.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CTxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9InNlbWFudGljL2Rpc3Qvc2VtYW50aWMubWluLmNzcyI+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICB9fQ==</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBcPg==</text>
@@ -74,32 +75,35 @@
       <register name="0" type="4">
         <text encoding="base64">PHNjcmlwdAoJc3JjPSJodHRwczovL2NvZGUuanF1ZXJ5LmNvbS9qcXVlcnktMy4xLjEubWluLmpzIgoJaW50ZWdyaXR5PSJzaGEyNTYtaFZWbllhaUFEUlRPMlB6VUdtdUxKcjhCTFVTakdJWnNEWUdtSUpMdjJiOD0iCgljcm9zc29yaWdpbj0iYW5vbnltb3VzIj48L3NjcmlwdD4KCTxzY3JpcHQgc3JjPSJzZW1hbnRpYy9kaXN0L3NlbWFudGljLm1pbi5qcyI+PC9zY3JpcHQ+</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CTxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9InNlbWFudGljL2Rpc3Qvc2VtYW50aWMubWluLmNzcyI+Cg==</text>
+      <register name="1" type="4">
+        <text>section
+				ul
+					li Results
+					li Stats</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CTxzY3JpcHQgc3JjPSJzZW1hbnRpYy9kaXN0L3NlbWFudGljLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CWNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPjwvc2NyaXB0Pgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWludGVncml0eT0ic2hhMjU2LWhWVm5ZYWlBRFJUTzJQelVHbXVMSnI4QkxVU2pHSVpzRFlHbUlKTHYyYjg9Igo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CXNyYz0iaHR0cHM6Ly9jb2RlLmpxdWVyeS5jb20vanF1ZXJ5LTMuMS4xLm1pbi5qcyIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CTxzY3JpcHQK</text>
-      </register>
-      <register name="7" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PHNjcmlwdAoJc3JjPSJodHRwczovL2NvZGUuanF1ZXJ5LmNvbS9qcXVlcnktMy4xLjEubWluLmpzIgoJaW50ZWdyaXR5PSJzaGEyNTYtaFZWbllhaUFEUlRPMlB6VUdtdUxKcjhCTFVTakdJWnNEWUdtSUpMdjJiOD0iCgljcm9zc29yaWdpbj0iYW5vbnltb3VzIj48L3NjcmlwdD4KCTxzY3JpcHQgc3JjPSJzZW1hbnRpYy9kaXN0L3NlbWFudGljLm1pbi5qcyI+PC9zY3JpcHQ+</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQloZWlnaHQgNTBweAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQl3aWR0aCAxMDAlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQljb2xvciBibGFjawo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQliYWNrZ3JvdW5kLWNvbG9yIGdyZWVueWVsbG93Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CSNtZXNzYWdlX2JveAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQljb3B5cmlnaHRzIDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSkK</text>
+        <text encoding="base64">CQlzcG9uc29yIDogCg==</text>
       </register>
     </registers>
     <search>
