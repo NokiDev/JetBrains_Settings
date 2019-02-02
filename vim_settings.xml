@@ -40,22 +40,23 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/MatchViewer.vue" timestamp="1549134876294">
-        <mark key="[" line="50" column="31" />
-        <mark key="]" line="50" column="31" />
-        <mark key="." line="50" column="31" />
-        <mark key="^" line="50" column="31" />
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/MatchViewer.vue" timestamp="1549138365445">
+        <mark key="'" line="81" column="14" />
+        <mark key="[" line="59" column="29" />
+        <mark key="]" line="84" column="31" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="72" column="0" />
       </file>
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Separator.vue" timestamp="1549130618131">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/screens/LiveStream.vue" timestamp="1549131627041">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="13" column="14" />
-        <mark key="^" line="11" column="16" />
-        <mark key="." line="11" column="30" />
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/screens/LiveStream.vue" timestamp="1549138353233">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="77" column="30" />
+        <mark key="." line="14" column="12" />
+        <mark key="^" line="44" column="24" />
       </file>
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Footer.vue" timestamp="1549131088267">
         <mark key="[" line="5" column="8" />
@@ -86,10 +87,27 @@
     </filemarks>
     <jumps>
       <jump line="1" column="4" filename="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/App.vue" />
+      <jump line="9" column="72" filename="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/MatchViewer.vue" />
+      <jump line="58" column="26" filename="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/MatchViewer.vue" />
+      <jump line="24" column="19" filename="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/MatchViewer.vue" />
+      <jump line="73" column="0" filename="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/MatchViewer.vue" />
+      <jump line="81" column="14" filename="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/MatchViewer.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>infos</text>
+        <text>.flex-row
+	display flex
+	justify-content space-between
+.content
+	padding: 30px
+	background-color: darkslategrey
+.sideplayer
+	margin 10px
+.separator
+	margin auto
+	margin-top 20px
+	margin-bottom 20px
+	background-color: orangered</text>
       </register>
       <register name="-" type="4">
         <text>infos</text>
@@ -98,46 +116,47 @@
         <text encoding="base64">XDxhcHBcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>.content
-		h1 MatchType - Equipe1 VS Equipe2
-		Separator.separator(width=&quot;500px&quot; color=&quot;orangered&quot;)
-		.flex-row
-			div
-				h2 Recap
-				Separator.separator(width=&quot;100px&quot; color=&quot;orangered&quot;)
-				div
-					h3 Round 1
-					h3 Round 2
-					h3 Round 3
-			TwitchPlayer(channel=&quot;riotgames&quot;, enable-chat=false)
-			div</text>
+        <text>.flex-row
+	display flex
+	justify-content space-between
+.content
+	padding: 30px
+	background-color: darkslategrey
+.sideplayer
+	margin 10px
+.separator
+	margin auto
+	margin-top 20px
+	margin-bottom 20px
+	background-color: orangered</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJVHdpdGNoUGxheWVyKGNoYW5uZWw9InJpb3RnYW1lcyIsIGVuYWJsZS1jaGF0PWZhbHNlKQo=</text>
+      <register name="1" type="4">
+        <text>Separator,
+			TwitchPlayer</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJVHdpdGNoUGxheWVyKDpjaGFubmVsPSJzdHJlYW1DaGFubmVsIiwgZW5hYmxlLWNoYXQ9ZmFsc2UpCQkK</text>
+        <text encoding="base64">CQkJU2VwYXJhdG9yLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJVHdpdGNoUGxheWVyKGNoYW5uZWw9InJpb3RnYW1lcyIsIGVuYWJsZS1jaGF0PWZhbHNlKQo=</text>
+        <text encoding="base64">CS5jb250ZW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJVHdpdGNoUGxheWVyKGNoYW5uZWw9InJpb3RnYW1lcyIsIGVuYWJsZS1jaGF0PWZhbHNlKQo=</text>
+        <text encoding="base64">CQkJZGl2Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZGRpbmZvcyA6IE9iamVjdAo=</text>
+        <text encoding="base64">CQkJVHdpdGNoUGxheWVyKGNoYW5uZWw9InJpb3RnYW1lcyIsIGVuYWJsZS1jaGF0PWZhbHNlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CTwvZm9vdGVyPgo=</text>
+        <text encoding="base64">CQkJCQloMyBSb3VuZCAzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWhlaWdodCAxcHgK</text>
+        <text encoding="base64">CQkJCQloMyBSb3VuZCAyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXdpZHRoICA1MDBweAo=</text>
+        <text encoding="base64">CQkJCQloMyBSb3VuZCAxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CW1hcmdpbiBhdXRvCg==</text>
+        <text encoding="base64">CQkJCWRpdgo=</text>
       </register>
     </registers>
     <search>
