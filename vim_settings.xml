@@ -3,12 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/TwitchPlayer.vue" timestamp="1549125658055">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+      </file>
       <file name="/Dummy.txt" timestamp="1548598420977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/HelloWorld.vue" timestamp="1548777077991">
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/HelloWorld.vue" timestamp="1549124264155">
         <mark key="[" line="98" column="14" />
-        <mark key="]" line="98" column="27" />
+        <mark key="]" line="98" column="14" />
+        <mark key="." line="98" column="14" />
       </file>
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/NavBar.vue" timestamp="1548788895105">
         <mark key="[" line="9" column="16" />
@@ -27,11 +34,17 @@
         <mark key="^" line="28" column="14" />
         <mark key="." line="28" column="14" />
       </file>
-      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/App.vue" timestamp="1548788781353">
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/App.vue" timestamp="1549125299798">
         <mark key="'" line="1" column="4" />
-        <mark key="[" line="2" column="14" />
+        <mark key="[" line="4" column="8" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/screens/LiveStream.vue" timestamp="1549125902980">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="32" column="19" />
+        <mark key="." line="32" column="19" />
+        <mark key="^" line="32" column="19" />
       </file>
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Footer.vue" timestamp="1548788485430">
         <mark key="[" line="2" column="0" />
@@ -64,10 +77,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBcPg==</text>
@@ -75,35 +88,35 @@
       <register name="0" type="4">
         <text encoding="base64">PHNjcmlwdAoJc3JjPSJodHRwczovL2NvZGUuanF1ZXJ5LmNvbS9qcXVlcnktMy4xLjEubWluLmpzIgoJaW50ZWdyaXR5PSJzaGEyNTYtaFZWbllhaUFEUlRPMlB6VUdtdUxKcjhCTFVTakdJWnNEWUdtSUpMdjJiOD0iCgljcm9zc29yaWdpbj0iYW5vbnltb3VzIj48L3NjcmlwdD4KCTxzY3JpcHQgc3JjPSJzZW1hbnRpYy9kaXN0L3NlbWFudGljLm1pbi5qcyI+PC9zY3JpcHQ+</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQlhKDpocmVmPSInaHR0cHM6Ly93d3cudHdpdGNoLnR2LycgKyBjaGFubmVsICsgJz90dF9jb250ZW50PXRleHRfbGluayZ0dF9tZWRpdW09bGl2ZV9lbWJlZCciIHN0eWxlPSJwYWRkaW5nOjJweCAwcHggNHB4OyBkaXNwbGF5OmJsb2NrOyB3aWR0aDozNDVweDsgZm9udC13ZWlnaHQ6bm9ybWFsOyBmb250LXNpemU6MTBweDsgdGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZTsiKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CWRkCQl8IFdhdGNoIGxpdmUgdmlkZW8gZnJvbSBnYXVsZXMgb24gd3d3LnR3aXRjaC50dgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CWRpdgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlUVXV3aXRjaFBsYXllcih1cmw9IiIpCg==</text>
+      </register>
+      <register name="5" type="4">
         <text>section
 				ul
 					li Results
 					li Stats</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQloZWlnaHQgNTBweAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQl3aWR0aCAxMDAlCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQljb2xvciBibGFjawo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQliYWNrZ3JvdW5kLWNvbG9yIGdyZWVueWVsbG93Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CSNtZXNzYWdlX2JveAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQljb3B5cmlnaHRzIDoK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlzcG9uc29yIDogCg==</text>
+        <text encoding="base64">CQljb2xvciBibGFjawo=</text>
       </register>
     </registers>
     <search>
