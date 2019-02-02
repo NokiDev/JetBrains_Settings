@@ -40,14 +40,20 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/MatchViewer.vue" timestamp="1549134876294">
+        <mark key="[" line="50" column="31" />
+        <mark key="]" line="50" column="31" />
+        <mark key="." line="50" column="31" />
+        <mark key="^" line="50" column="31" />
+      </file>
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Separator.vue" timestamp="1549130618131">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/screens/LiveStream.vue" timestamp="1549131612876">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="30" />
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/screens/LiveStream.vue" timestamp="1549131627041">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="13" column="14" />
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="30" />
       </file>
@@ -82,44 +88,56 @@
       <jump line="1" column="4" filename="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/App.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CTwvZm9vdGVyPgo=</text>
+      <register name="&quot;" type="4">
+        <text>infos</text>
       </register>
       <register name="-" type="4">
-        <text>center</text>
+        <text>infos</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>h3 Round 1</text>
+        <text>.content
+		h1 MatchType - Equipe1 VS Equipe2
+		Separator.separator(width=&quot;500px&quot; color=&quot;orangered&quot;)
+		.flex-row
+			div
+				h2 Recap
+				Separator.separator(width=&quot;100px&quot; color=&quot;orangered&quot;)
+				div
+					h3 Round 1
+					h3 Round 2
+					h3 Round 3
+			TwitchPlayer(channel=&quot;riotgames&quot;, enable-chat=false)
+			div</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CTwvZm9vdGVyPgo=</text>
+        <text encoding="base64">CQkJVHdpdGNoUGxheWVyKGNoYW5uZWw9InJpb3RnYW1lcyIsIGVuYWJsZS1jaGF0PWZhbHNlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWhlaWdodCAxcHgK</text>
+        <text encoding="base64">CQkJVHdpdGNoUGxheWVyKDpjaGFubmVsPSJzdHJlYW1DaGFubmVsIiwgZW5hYmxlLWNoYXQ9ZmFsc2UpCQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXdpZHRoICA1MDBweAo=</text>
+        <text encoding="base64">CQkJVHdpdGNoUGxheWVyKGNoYW5uZWw9InJpb3RnYW1lcyIsIGVuYWJsZS1jaGF0PWZhbHNlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CW1hcmdpbiBhdXRvCg==</text>
+        <text encoding="base64">CQkJVHdpdGNoUGxheWVyKGNoYW5uZWw9InJpb3RnYW1lcyIsIGVuYWJsZS1jaGF0PWZhbHNlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LmNlbnRlciAK</text>
+        <text encoding="base64">CQkJZGRpbmZvcyA6IE9iamVjdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CTwvZm9vdGVyPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CWhlaWdodCAxcHgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlzcGFjZS10b3AgOiB7Cg==</text>
+        <text encoding="base64">CXdpZHRoICA1MDBweAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CW1hcmdpbi1ib3R0b20gIDIwcHgK</text>
+        <text encoding="base64">CW1hcmdpbiBhdXRvCg==</text>
       </register>
     </registers>
     <search>
