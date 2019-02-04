@@ -59,11 +59,23 @@
         <mark key="." line="62" column="20" />
         <mark key="^" line="62" column="20" />
       </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Recipe/Ingredients.vue" timestamp="1549293001422">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/NavBar.vue" timestamp="1549278684255">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="^" line="44" column="19" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Recipe/IngredientItem.vue" timestamp="1549293118550">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="23" />
+        <mark key="^" line="13" column="23" />
+        <mark key="." line="13" column="23" />
       </file>
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/main.js" timestamp="1549226431048">
         <mark key="[" line="2" column="7" />
@@ -83,6 +95,12 @@
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="10" />
         <mark key="^" line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Recipe/IngredientQuantity.vue" timestamp="1549293409682">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+        <mark key="." line="13" column="19" />
       </file>
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Menu.vue" timestamp="1548778854418">
         <mark key="[" line="10" column="14" />
