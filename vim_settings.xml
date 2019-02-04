@@ -11,11 +11,10 @@
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/screens/Home.vue" timestamp="1549226696966">
         <mark key="[" line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Header.vue" timestamp="1549284451042">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="2" column="10" />
-        <mark key="^" line="2" column="10" />
-        <mark key="." line="2" column="10" />
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Header.vue" timestamp="1549289995738">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/App.vue" timestamp="1549277643274">
         <mark key="'" line="1" column="4" />
@@ -116,10 +115,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CW1hcmdpbi10b3AgMnB4Cg==</text>
+        <text encoding="base64">CQkJCWkgU2xvZ2FuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>blue</text>
+        <text>assets/img/logo.png</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBcPg==</text>
@@ -128,31 +127,31 @@
         <text encoding="base64">CWJhY2tncm91bmQtY29sb3IgZGltZ3JleQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CW1hcmdpbi10b3AgMnB4Cg==</text>
+        <text encoding="base64">CQkJCWkgU2xvZ2FuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CQkJc3Bhbi5zbG9nYW5kCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CW1hcmdpbi10b3AgMnB4Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CW1hcmdpbi10b3AgMnB4Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ci5raWxsX2Jsb2NrCg==</text>
+        <text encoding="base64">CW1hcmdpbi10b3AgMnB4Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LnJvdW5kX2Jsb2NrCg==</text>
+        <text encoding="base64">CW1hcmdpbi10b3AgMnB4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LnJvdW5kX2Jsb2NrCg==</text>
+        <text encoding="base64">Ci5raWxsX2Jsb2NrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWJhY2tncm91bmQtY29sb3IgZGltZ3JleQo=</text>
+        <text encoding="base64">LnJvdW5kX2Jsb2NrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWJhY2tncm91bmQtY29sb3IgZGFya3NsYXRlZ3JheQo=</text>
+        <text encoding="base64">LnJvdW5kX2Jsb2NrCg==</text>
       </register>
     </registers>
     <search>
