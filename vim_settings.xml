@@ -6,11 +6,11 @@
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/screens/Home.vue" timestamp="1549226696966">
         <mark key="[" line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Recipe/Recipe.vue" timestamp="1549292118010">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="22" />
-        <mark key="^" line="14" column="22" />
-        <mark key="." line="14" column="22" />
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Recipe/Recipe.vue" timestamp="1549309859437">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="12" />
       </file>
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Header.vue" timestamp="1549291116305">
         <mark key="[" line="15" column="0" />
@@ -47,6 +47,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Recipe/DirectionItem.vue" timestamp="1549309521449">
+        <mark key="[" line="7" column="21" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1548598387853">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/TwitchPlayer.vue" timestamp="1549125658055">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="16" />
@@ -58,6 +64,9 @@
         <mark key="]" line="62" column="20" />
         <mark key="." line="62" column="20" />
         <mark key="^" line="62" column="20" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1548598420977">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Recipe/Ingredients.vue" timestamp="1549293001422">
         <mark key="[" line="6" column="24" />
@@ -96,11 +105,11 @@
         <mark key="." line="2" column="10" />
         <mark key="^" line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Recipe/IngredientQuantity.vue" timestamp="1549293409682">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="19" />
-        <mark key="^" line="13" column="19" />
-        <mark key="." line="13" column="19" />
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Recipe/IngredientQuantity.vue" timestamp="1549308892818">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="19" />
       </file>
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Menu.vue" timestamp="1548778854418">
         <mark key="[" line="10" column="14" />
@@ -119,7 +128,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWkgU2xvZ2FuCg==</text>
+        <text encoding="base64">CQl8IFJlY2lwZSBmcm9tIHt7IHJlZmVyZW5jZX19Cg==</text>
       </register>
       <register name="-" type="4">
         <text>assets/img/logo.png</text>
@@ -131,31 +140,31 @@
         <text encoding="base64">CWJhY2tncm91bmQtY29sb3IgZGltZ3JleQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWkgU2xvZ2FuCg==</text>
+        <text encoding="base64">CQl8IFJlY2lwZSBmcm9tIHt7IHJlZmVyZW5jZX19Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJc3Bhbi5zbG9nYW5kCg==</text>
+        <text encoding="base64">CTxJbmdyZWRpZW50cz48L0luZ3JlZGllbnRzPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CW1hcmdpbi10b3AgMnB4Cg==</text>
+        <text encoding="base64">CT48L0RpcmVjdGlvbnM+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CQkJCWkgU2xvZ2FuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CW1hcmdpbi10b3AgMnB4Cg==</text>
+        <text encoding="base64">CQkJc3Bhbi5zbG9nYW5kCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CW1hcmdpbi10b3AgMnB4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ci5raWxsX2Jsb2NrCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LnJvdW5kX2Jsb2NrCg==</text>
+        <text encoding="base64">CW1hcmdpbi10b3AgMnB4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LnJvdW5kX2Jsb2NrCg==</text>
+        <text encoding="base64">CW1hcmdpbi10b3AgMnB4Cg==</text>
       </register>
     </registers>
     <search>
