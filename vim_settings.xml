@@ -21,6 +21,9 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/docs/github/KitchenRecipes/kitchen-recipes/Dockerfile" timestamp="1549470329349">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/NavBar.vue" timestamp="1549278684255">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -98,6 +101,9 @@
         <mark key="]" line="1" column="6" />
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/docs/github/KitchenRecipes/kitchen-recipes/.dockerignore" timestamp="1549471152166">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/screens/LiveStream.vue" timestamp="1549143294388">
         <mark key="[" line="59" column="21" />
