@@ -57,11 +57,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/docs/github/KitchenRecipes/KitchenRecipesApp/src/router/app.routes.js" timestamp="1549496145815">
-        <mark key="[" line="9" column="84" />
-        <mark key="]" line="9" column="43" />
-        <mark key="." line="9" column="1" />
-        <mark key="^" line="9" column="16" />
+      <file name="$USER_HOME$/docs/github/KitchenRecipes/KitchenRecipesApp/src/router/app.routes.js" timestamp="1549497334310">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/screens/LiveStream.vue" timestamp="1549143294388">
         <mark key="[" line="59" column="21" />
@@ -191,10 +191,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICB7IHBhdGg6ICIvcmVjaXBlcyIsIGNvbXBvbmVudDogUmVjaXBlcyB9</text>
+        <text>404_</text>
       </register>
       <register name="-" type="4">
-        <text>BLAST Pro Serie</text>
+        <text>404_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBcPg==</text>
