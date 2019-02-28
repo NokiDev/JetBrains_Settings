@@ -25,6 +25,12 @@
         <mark key="." line="24" column="59" />
         <mark key="^" line="24" column="56" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/docker-compose.yml" timestamp="1551352292775">
+        <mark key="'" line="10" column="15" />
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/router/index.js" timestamp="1549225806337">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="4" column="31" />
@@ -77,6 +83,9 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1551350877237">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/docs/github/KitchenRecipes/KitchenRecipesApp/src/App.vue" timestamp="1549485479807">
         <mark key="[" line="23" column="58" />
         <mark key="]" line="23" column="58" />
@@ -93,6 +102,9 @@
         <mark key="]" line="62" column="20" />
         <mark key="." line="62" column="20" />
         <mark key="^" line="62" column="20" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1548598420977">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Recipe/Ingredients.vue" timestamp="1549293001422">
         <mark key="[" line="6" column="24" />
@@ -191,60 +203,66 @@
       <jump line="73" column="0" filename="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/MatchViewer.vue" />
       <jump line="81" column="14" filename="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/MatchViewer.vue" />
       <jump line="5" column="54" filename="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Recipe/Recipe.vue" />
+      <jump line="9" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>404_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAtIC4vY29uZmlnOi9jb25maWcK</text>
       </register>
       <register name="-" type="4">
         <text>404_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBcPg==</text>
+        <text encoding="base64">XDxob21lXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICB7IHBhdGg6ICIvcmVjaXBlcyIsIGNvbXBvbmVudDogUmVjaXBlcyB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEhvbWUgZnJvbSAiLi4vc2NyZWVucy9Ib21lIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAtIC4vY29uZmlnOi9jb25maWcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQl7IHBhdGggOiAiLyIsIGRpc3BsYXlOYW1lOiAiUmVjaXBlcyIgfQo=</text>
+        <text encoding="base64">aW1wb3J0IEhvbWUgZnJvbSAiLi4vc2NyZWVucy9Ib21lIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB7IHBhdGg6ICIvcmVjaXBlcyIsIGNvbXBvbmVudDogUmVjaXBlcyB9LAo=</text>
+        <text encoding="base64">CQkJCQl7IHBhdGggOiAiLyIsIGRpc3BsYXlOYW1lOiAiUmVjaXBlcyIgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB7IHBhdGg6ICIvIiwgY29tcG9uZW50OiBIb21lIH0K</text>
+        <text encoding="base64">ICB7IHBhdGg6ICIvcmVjaXBlcyIsIGNvbXBvbmVudDogUmVjaXBlcyB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB7IHBhdGg6ICIvcmVwbGF5cyIsIGNvbXBvbmVudDogUmVwbGF5cyB9LAo=</text>
+        <text encoding="base64">ICB7IHBhdGg6ICIvIiwgY29tcG9uZW50OiBIb21lIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB7IHBhdGg6ICIvbmVhclUiLCBjb21wb25lbnQ6IE5lYXJZb3UgfSwK</text>
+        <text encoding="base64">ICB7IHBhdGg6ICIvcmVwbGF5cyIsIGNvbXBvbmVudDogUmVwbGF5cyB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB7IHBhdGg6ICIvcGxhbiIsIGNvbXBvbmVudDogU2l0ZVBsYW4gfSwK</text>
+        <text encoding="base64">ICB7IHBhdGg6ICIvbmVhclUiLCBjb21wb25lbnQ6IE5lYXJZb3UgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB7IHBhdGg6ICIvbGl2ZSIsIGNvbXBvbmVudDogTGl2ZVN0cmVhbSB9LAo=</text>
+        <text encoding="base64">ICB7IHBhdGg6ICIvcGxhbiIsIGNvbXBvbmVudDogU2l0ZVBsYW4gfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFJlY2lwZVZpZXdlciBmcm9tICIuLi9zY3JlZW5zL1JlY2lwZVZpZXdlciI7Cgo=</text>
+        <text encoding="base64">ICB7IHBhdGg6ICIvbGl2ZSIsIGNvbXBvbmVudDogTGl2ZVN0cmVhbSB9LAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBcPg==</last-search>
+      <last-search encoding="base64">XDxob21lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxob21lXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcHBcPg==</entry>
+        <entry encoding="base64">XDxob21lXD4=</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
