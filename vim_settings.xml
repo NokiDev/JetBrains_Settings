@@ -3,20 +3,276 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1548598420977">
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/screens/Home.vue" timestamp="1549226696966">
+        <mark key="[" line="1" column="4" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Recipe/Recipe.vue" timestamp="1549370019967">
+        <mark key="'" line="12" column="54" />
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="^" line="8" column="10" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Header.vue" timestamp="1549291116305">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/App.vue" timestamp="1549317862131">
+        <mark key="'" line="1" column="4" />
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="24" column="59" />
+        <mark key="." line="24" column="59" />
+        <mark key="^" line="24" column="56" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/router/index.js" timestamp="1549225806337">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+        <mark key="^" line="4" column="31" />
+      </file>
+      <file name="$USER_HOME$/docs/github/KitchenRecipes/kitchen-recipes/src/datasources/mongo-db.datasource.json" timestamp="1549475866372">
+        <mark key="[" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/MatchViewer.vue" timestamp="1549317922909">
+        <mark key="'" line="104" column="14" />
+        <mark key="[" line="15" column="91" />
+        <mark key="]" line="13" column="74" />
+        <mark key="." line="13" column="74" />
+        <mark key="^" line="13" column="74" />
+      </file>
+      <file name="$USER_HOME$/docs/github/KitchenRecipes/KitchenRecipesApp/src/screens/Planning.vue" timestamp="1549485986779">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Separator.vue" timestamp="1549130618131">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/docs/github/KitchenRecipes/KitchenRecipesApp/src/components/Menu.vue" timestamp="1549479805861">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/docs/github/KitchenRecipes/KitchenRecipesApp/src/router/app.routes.js" timestamp="1549497334310">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="10" column="16" />
+      </file>
+      <file name="$USER_HOME$/docs/github/KitchenRecipes/KitchenRecipesApp/src/screens/NotFound.vue" timestamp="1549550632208">
+        <mark key="[" line="3" column="4" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/screens/LiveStream.vue" timestamp="1549143294388">
+        <mark key="[" line="59" column="21" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Recipe/DirectionItem.vue" timestamp="1549366977330">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="9" column="5" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+      </file>
+      <file name="$USER_HOME$/docs/github/KitchenRecipes/KitchenRecipesApp/src/App.vue" timestamp="1549485479807">
+        <mark key="[" line="23" column="58" />
+        <mark key="]" line="23" column="58" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/TwitchPlayer.vue" timestamp="1549125658055">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/RoundItem.vue" timestamp="1549280458636">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="62" column="20" />
+        <mark key="." line="62" column="20" />
+        <mark key="^" line="62" column="20" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Recipe/Ingredients.vue" timestamp="1549293001422">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/docs/github/KitchenRecipes/kitchen-recipes/Dockerfile" timestamp="1549474139460">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/NavBar.vue" timestamp="1549278684255">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="44" column="19" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Recipe/IngredientItem.vue" timestamp="1549414756238">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="12" />
+        <mark key="^" line="1" column="6" />
+        <mark key="." line="27" column="12" />
+      </file>
+      <file name="$USER_HOME$/docs/github/KitchenRecipes/KitchenRecipesApp/src/components/Footer.vue" timestamp="1549479727292">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Recipe/ServiceMultiplier.vue" timestamp="1549369285232">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1548598387853">
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/main.js" timestamp="1549226431048">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="10" column="2" />
+        <mark key="^" line="10" column="2" />
+        <mark key="." line="10" column="2" />
+      </file>
+      <file name="$USER_HOME$/docs/github/KitchenRecipes/KitchenRecipesApp/src/screens/RecipeCreator.vue" timestamp="1549495247820">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/screens/RecipeScreen.vue" timestamp="1549365896748">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="8" />
+        <mark key="^" line="53" column="16" />
+        <mark key="." line="5" column="8" />
+      </file>
+      <file name="$USER_HOME$/docs/github/KitchenRecipes/docker-compose.yml" timestamp="1549470172114">
+        <mark key="[" line="25" column="41" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/screens/RecipeViewer.vue" timestamp="1549373269735">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="6" />
+        <mark key="^" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/docs/github/KitchenRecipes/kitchen-recipes/.dockerignore" timestamp="1549471152166">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/docs/github/KitchenRecipes/KitchenRecipesApp/src/components/NavBar.vue" timestamp="1549484666239">
+        <mark key="[" line="17" column="12" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Footer.vue" timestamp="1549131088267">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Recipe/IngredientQuantity.vue" timestamp="1549369899179">
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/docs/github/KitchenRecipes/KitchenRecipesApp/src/screens/Recipes.vue" timestamp="1549479780265">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Menu.vue" timestamp="1548778854418">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="1" column="4" filename="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/App.vue" />
+      <jump line="9" column="72" filename="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/MatchViewer.vue" />
+      <jump line="58" column="26" filename="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/MatchViewer.vue" />
+      <jump line="24" column="19" filename="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/MatchViewer.vue" />
+      <jump line="73" column="0" filename="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/MatchViewer.vue" />
+      <jump line="81" column="14" filename="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/MatchViewer.vue" />
+      <jump line="5" column="54" filename="$USER_HOME$/docs/Workshop2019/Web-Prototype/src/components/Recipe/Recipe.vue" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>404_</text>
+      </register>
+      <register name="-" type="4">
+        <text>404_</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxhcHBcPg==</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICB7IHBhdGg6ICIvcmVjaXBlcyIsIGNvbXBvbmVudDogUmVjaXBlcyB9</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IEhvbWUgZnJvbSAiLi4vc2NyZWVucy9Ib21lIjsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQl7IHBhdGggOiAiLyIsIGRpc3BsYXlOYW1lOiAiUmVjaXBlcyIgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB7IHBhdGg6ICIvcmVjaXBlcyIsIGNvbXBvbmVudDogUmVjaXBlcyB9LAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICB7IHBhdGg6ICIvIiwgY29tcG9uZW50OiBIb21lIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB7IHBhdGg6ICIvcmVwbGF5cyIsIGNvbXBvbmVudDogUmVwbGF5cyB9LAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB7IHBhdGg6ICIvbmVhclUiLCBjb21wb25lbnQ6IE5lYXJZb3UgfSwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB7IHBhdGg6ICIvcGxhbiIsIGNvbXBvbmVudDogU2l0ZVBsYW4gfSwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICB7IHBhdGg6ICIvbGl2ZSIsIGNvbXBvbmVudDogTGl2ZVN0cmVhbSB9LAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IFJlY2lwZVZpZXdlciBmcm9tICIuLi9zY3JlZW5zL1JlY2lwZVZpZXdlciI7Cgo=</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxhcHBcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxhcHBcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxhcHBcPg==</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
